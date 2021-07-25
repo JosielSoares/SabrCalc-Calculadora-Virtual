@@ -2,6 +2,8 @@
 SabrCalc calculadora 3d no blender v.0.1.01
 Programador: Josiel Soares "Ziga Multimedia"
 Youtube: https://www.youtube.com/c/ZigaMultimedia
+Framework: Verifique também a implementação com o Framework Kivy
+Engine: Futura implementação com o Motor de Jogo UpBGE
 
 Teclas de Atalhos:
     1) Botão Esquerdo e clique em cada tecla para acionar o número
