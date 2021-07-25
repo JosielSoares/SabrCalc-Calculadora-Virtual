@@ -1,6 +1,7 @@
 '''
 SabrCalc calculadora 3d no blender v.0.1.01
-Programador: Josiel Soares "Zyel3d"
+Programador: Josiel Soares "Ziga Multimedia"
+Youtube: https://www.youtube.com/c/ZigaMultimedia
 
 Teclas de Atalhos:
     1) Botão Esquerdo e clique em cada tecla para acionar o número
