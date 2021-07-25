@@ -9,3 +9,6 @@ Tarefas futuras a ser implementadas:
 •	Reduzir o código inteiro da aplicação
 •	Estudar programação orientada a objetos com Python
 
+A mesma solução, no entanto redesenhada usando o Framework Kivy.
+O código está na pasta KivyProject
+
