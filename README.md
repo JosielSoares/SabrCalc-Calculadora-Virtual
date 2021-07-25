@@ -10,5 +10,5 @@ Tarefas futuras a ser implementadas:
 •	Estudar programação orientada a objetos com Python
 
 A mesma solução, no entanto redesenhada usando o Framework Kivy:<br>
-O código está no arquivo <strong>KvApp.py</strong> para a Classe Principal <br>
-O código está no arquivo <strong>KvGui.kv</strong> para a Interface Gráfica
+O código está disponível no arquivo <strong>KvApp.py</strong> para a Classe Principal <br>
+O código está também no arquivo <strong>KvGui.kv</strong> para a Interface Gráfica
