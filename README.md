@@ -9,6 +9,6 @@ Tarefas futuras a ser implementadas:
 •	Reduzir o código inteiro da aplicação
 •	Estudar programação orientada a objetos com Python
 
-A mesma solução, no entanto redesenhada usando o Framework Kivy:
+A mesma solução, no entanto redesenhada usando o Framework Kivy:<br>
 O código está no arquivo KvApp.py para a Classe Principal <br>
 O código está no arquivo KvGui.kv para a Interface Gráfica
