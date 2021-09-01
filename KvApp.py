@@ -1,3 +1,5 @@
+# Programado por Josiel Soares
+# Website: http://www.josielsoares.com
 from kivy.app import App
 from kivy.uix.screenmanager import ScreenManager, Screen
 from kivy.lang import Builder
